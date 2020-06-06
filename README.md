@@ -5,6 +5,7 @@ It is a system for face detection and face recognition using several classifiers
 This program contain two files:
 
 1-It is a program for registering yourself for the face recognition.
+
 2-It is a program for face recognition.
 
 
